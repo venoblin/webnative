@@ -2,7 +2,7 @@
   "name": "whatsapp-electron",
   "version": "1.0.0",
   "description": "Electron application for WhatsApp.",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
