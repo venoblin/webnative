@@ -4,7 +4,7 @@ file (GLOB_RECURSE SOURCE_FILES "src/*.cpp")
 project (
   whatsappdesktop
   VERSION "0.1.0"
-  DESCRIPTION "Desktop WhatsApp client for Linux."
+  DESCRIPTION "description"
   LANGUAGES CXX
 )
 
