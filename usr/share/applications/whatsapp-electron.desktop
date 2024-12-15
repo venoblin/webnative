@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=WhatsApp Electron
+Comment=WhatsApp Desktop App
+Exec=/usr/bin/whatsapp-electron
+Icon=/usr/share/icons/whatsapp.png
+Terminal=false
+Type=Application
+Categories=Network;InstantMessaging;
