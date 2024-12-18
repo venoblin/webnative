@@ -8,4 +8,6 @@ project (
   LANGUAGES CXX
 )
 
+include_directories(include) 
+
 add_executable (whatsappdesktop ${SOURCE_FILES})
