@@ -15,5 +15,4 @@ include_directories(
   ${wxWidgets_INCLUDE_DIRS}
 ) 
 
-
 add_executable (whatsappdesktop ${SOURCE_FILES})

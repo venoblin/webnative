@@ -5,7 +5,7 @@
 
 class WebFrame : wxFrame {
   public:
-    WebFrame() : wxFrame(NULL, wxID_ANY, "Whatsapp");
+    WebFrame() : wxFrame(NULL, wxID_ANY, "Whatsapp") {};
 };
 
 #endif
