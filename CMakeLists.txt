@@ -8,6 +8,12 @@ project (
   LANGUAGES CXX
 )
 
-include_directories(include) 
+find_package(wxWidgets REQUIRED COMPONENTS core net base)
+
+include_directories(
+  ${CMAKE_CURRENT_SOURCE_DIR}/include 
+  ${wxWidgets_INCLUDE_DIRS}
+) 
+
 
 add_executable (whatsappdesktop ${SOURCE_FILES})
