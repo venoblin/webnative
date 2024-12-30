@@ -67,23 +67,17 @@ To get a local copy up and running follow these simple example steps.
 
 This project requires Yarn to be installed in your system. If you don&#39;t have it installed, you can follow these steps:
 
-- Install Yarn globally using npm (Node Package Manager). Open your terminal and run:
+- Install qt6-qtwebengine
 
   ```sh
   npm install -g yarn
   ```
 
-  Please ensure that you have Node.js and npm installed before running Yarn.
-
-- Verify that Yarn has been installed on your machine by running the following command in your terminal:
+- Install qt6-qtbase
 
   ```sh
   yarn --version
   ```
-
-  If Yarn has been installed correctly, your terminal should display the version of Yarn installed on your machine.
-
-Now you are ready to use Yarn for managing and versioning your project dependencies!
 
 ### Installation
 
