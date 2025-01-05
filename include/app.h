@@ -4,15 +4,16 @@
 #include <QApplication>
 #include <QMainWindow>
 #include <QWebEngineView>
+#include <QString>
 
 class App : QApplication {    
   private:
     QMainWindow window;
-    string title;
-    string url;
+    const QString title;
+    const QString url;
   
   public:
-    App(string title, string url);
+    App(const QString title, const QString url);
 
     void show();
 };
