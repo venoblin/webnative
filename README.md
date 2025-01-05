@@ -26,8 +26,8 @@ WebNative is a lightweight and efficient framework that empowers you to build na
 ### Built With
 
 This project was built with the following technologies:
-- ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
-- ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
+- <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C++" />
+- <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="Bash" />
 
 ## Getting Started
 
