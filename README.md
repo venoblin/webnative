@@ -5,7 +5,7 @@
 </a>
 <h3 align="center">WebNative</h3>
 <p align="center">
-creating native desktop applications using a web page!
+Create native desktop applications using a web page!
 <br/>
 <br/>
 </p>
